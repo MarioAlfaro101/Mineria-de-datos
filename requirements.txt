@@ -1,0 +1,11 @@
+chromadb
+sentence-transformers
+langchain
+pandas
+numpy
+streamlit
+plotly
+opencv-python
+moviepy
+google-generativeai
+youtube-transcript-api
