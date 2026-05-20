@@ -9,3 +9,5 @@
 
 4. Lanza el dashboard
    streamlit run dashboard/app.py
+cd python/agents/youtube-analyst
+python test_rag.py
